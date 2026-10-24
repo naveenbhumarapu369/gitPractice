@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello, Git!");
         System.out.println("I am learning Git step by step.");
         System.out.println("XXXXXXXXXXXXX later commit");
+        System.out.println("This is my first Git branch!");
     }
 }
